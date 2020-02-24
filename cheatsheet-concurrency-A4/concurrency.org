@@ -17,6 +17,12 @@
 <br/><br/>
 <a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
+
+** Implement a lock-free queue with multiple readers/writers
+*** useful link
+
+https://blog.codingnow.com/2012/06/dev_note_21.html
+云风的 BLOG: 开发笔记(21) : 无锁消息队列
 * Review: Concurrency Problems                         :noexport:BLOG:Review:
 #+STARTUP: showeverything
 #+OPTIONS: toc:nil \n:t ^:nil creator:nil d:nil

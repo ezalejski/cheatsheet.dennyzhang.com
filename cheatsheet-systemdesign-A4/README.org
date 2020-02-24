@@ -34,6 +34,7 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 | Cheatsheet           | [[https://cheatsheet.dennyzhang.com/cheatsheet-leetcode-A4][CheatSheet: Leetcode For Code Interview]], [[https://cheatsheet.dennyzhang.com/cheatsheet-followup-A4][CheatSheet: Common Code Problems & Follow-ups]]               |
 | Cheatsheet           | [[https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4][CheatSheet: System Design For Job Interview]], [[https://cheatsheet.dennyzhang.com/cheatsheet-sre-A4][CheatSheet: SRE/DevOps/Sysadmin]]                         |
 | Cheatsheet           | [[https://cheatsheet.dennyzhang.com/cheatsheet-behavior-A4][CheatSheet: Behavior Questions For Coder Interview]], [[https://cheatsheet.dennyzhang.com/cheatsheet-language-A4][Programming Language Implemenetations CheatSheet]] |
+| Cheatsheet           | [[https://cheatsheet.dennyzhang.com/cheatsheet-concurrency-A4][CheatSheet: Concurrency & Parallel Programming]]                                                       |
 |----------------------+------------------------------------------------------------------------------------------------------|
 | Coding               | [[https://code.dennyzhang.com/review-oodesign][Code problems for #oodesign]]                                                                          |
 | Company Tech Blog    | [[https://www.facebook.com/pg/Engineering/notes/][Website: Facebook Engineering]], [[https://developers.googleblog.com][Website: Google Developers]]                                            |
@@ -86,12 +87,8 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 |  22 | Avoid double payment in a distributed payment system             | [[https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb][Link: Avoiding Double Payments in a Distributed Payments System]] |
 |  23 | Design a distributed transactions                                |                                                                 |
 #+TBLFM: $1=@-1$1+1;N
-** Top 10 Concurrency Problems
-| Num | Name                                |                                     |
-|-----+-------------------------------------+-------------------------------------|
-|   1 | [[https://architect.dennyzhang.com/design-concurrent-hashmap][Design a thread-safe Hashmap]]        |                                     |
-|   2 | Design a thread-safe blocking queue |                                     |
-|   3 | Implement a reader-writer locker    | [[https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem][Wikiepedia: Readers-writers problem]] |
+** Concurrency Problems
+- [[https://cheatsheet.dennyzhang.com/cheatsheet-concurrency-A4][CheatSheet: Concurrency & Parallel Programming]]
 #+TBLFM: $1=@-1$1+1;N
 ** Top 30 Product Design
 | Num | Name                                                       |   |
